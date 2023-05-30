@@ -1,0 +1,8 @@
+{
+    "Application": {
+        "host": "127.0.0.1",
+        "port": 8000
+    },
+    "kafka-broker-url": "localhost:9092",
+    "kafka-topic-email": "email"
+}

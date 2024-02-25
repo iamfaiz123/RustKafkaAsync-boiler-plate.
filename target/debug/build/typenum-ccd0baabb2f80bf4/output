@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/rapidinnovation/decoupled_kafka_microservice_rust/target/debug/build/typenum-ccd0baabb2f80bf4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/rapidinnovation/decoupled_kafka_microservice_rust/target/debug/build/typenum-ccd0baabb2f80bf4/out/op.rs
